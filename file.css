@@ -1,0 +1,24 @@
+body {
+  background-color: #F7FCFF;
+  color: #2A5876;
+}
+
+nav {
+  background-color: #B8F0E6;
+}
+
+.hero {
+  background: linear-gradient(to bottom right, #FFD6B0, #E5C5FF);
+}
+
+.btn {
+  background-color: #8ED8E5;
+}
+
+.btn:hover {
+  background-color: #2A5876;
+}
+
+.card h3 {
+  color: #2A5876;
+}
